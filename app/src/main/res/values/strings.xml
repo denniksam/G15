@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game 15</string>
+    <string name="no_move" >Нет хода</string>
+    <string name="victory" >Победа!</string>
+    <string name="play_again" >Сыграть еще раз?</string>
+    <string name="once_more" >Еще раз</string>
+    <string name="exit" >Выход</string>
+</resources>
